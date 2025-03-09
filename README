@@ -1,0 +1,7 @@
+## Requirements
+
+Before running the script, ensure you have:
+
+1. **[QRes](https://sourceforge.net/projects/qres/)** (for resolution switching)
+2. **PowerShell** (Built-in, run as Administrator)
+3. **[AutoHotkey](https://www.autohotkey.com/)** (Optional, for hotkey binding)
