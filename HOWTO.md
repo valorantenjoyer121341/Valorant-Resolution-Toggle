@@ -72,15 +72,19 @@ Create a new file: ToggleResolution.ahk
 
 Paste this:
 
-F8:: (or any button you would like the hotkey to be)
+
+
+F8::
 Run, powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File "C:\ProgramData\ResolutionToggle\ToggleResolution.ps1"
 return
+
+(swap F8 with any key you would like the hotkey to be)
+
+
 
 Save and double-click ToggleResolution.ahk to run.
 
 Press F8 anytime to toggle resolution instantly.
-
-Alternatively, you can include the AHK script inside your GitHub repository as ToggleResolution.ahk for easy access.
 
 Option 2: Gaming Keyboard Software
 
