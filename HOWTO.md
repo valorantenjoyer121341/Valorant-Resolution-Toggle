@@ -2,6 +2,8 @@ Valorant Resolution Toggle Script
 
 A PowerShell script to instantly toggle between 1280x960 and 1920x1080 while keeping 240Hz refresh rate. Ideal for Valorant players who use AMD Custom Resolutions.
 
+I you would like to use a different resolution, just chaange the script to reflect your resolution.
+
 Features
 
 Toggles between 1280x960 ↔ 1920x1080 @ 240Hz
